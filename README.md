@@ -1,5 +1,7 @@
 ## React Stockcharts
 
+# 0strich Fork Version
+
 [![Join the chat at https://gitter.im/rrag/react-stockcharts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rrag/react-stockcharts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/react-stockcharts.svg)](https://badge.fury.io/js/react-stockcharts)
 
